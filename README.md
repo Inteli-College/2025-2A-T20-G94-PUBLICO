@@ -1,2 +1,3 @@
-# 2025-2A-T20-G94-PUBLICO
-Repository for group 94 of class T20 (2025/2A)
+
+# Transition to Post-Quantum Cryptography in High-Performance Blockchain Networks: An Analysis of the Solana Architecture
+

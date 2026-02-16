@@ -1,7 +1,6 @@
-# Trilha Acadêmica – Inteli
 
 <p align="center"> 
-  <img src="assets/img/inteli_logo.png" width="180"> 
+  <img src="./assets/img/logo_inteli.png" width="180"> 
 </p> 
 
 <h1 align="center"> 

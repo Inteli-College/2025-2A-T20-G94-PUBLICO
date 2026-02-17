@@ -3,21 +3,15 @@
   <img src="assets/img/logo_inteli.png" width="180"> 
 </p> 
 
-<h1 align="center"> 
-  Proposta de Transição para Criptografia Pós-Quântica na Solana 
-</h1> 
+  ## Projeto - Proposta de Transição para Criptografia Pós-Quântica na Solana 
 
-<p align="center"> 
-   <strong>Trilha Acadêmica – Instituto de Tecnologia e Liderança (Inteli)</strong><br> 
-   Trabalho de Conclusão de Curso
-  </p>
+**Trilha Acadêmica** – Instituto de Tecnologia e Liderança
+**Trabalho de Conclusão de Curso**
 
-## 👥 Autor
-
-**Autor:** Arthur Tsukamoto
-**Curso:** Ciência da Computação
-**Orientadora:** Profa. Dra. Ana Cristina Santos
-**Área:** Criptografia Pós-Quântica, Blockchain, Sistemas Distribuídos
+👤 **Autor:** Arthur Tsukamoto  
+🎓 **Curso:** Ciência da Computação  
+👩‍🏫 **Orientadora:** Profa. Dra. Ana Cristina Santos  
+🔬 **Área:** Criptografia Pós-Quântica, Blockchain, Sistemas Distribuídos
 
 ---
 
@@ -25,7 +19,7 @@
 
 Este projeto foi desenvolvido no âmbito da Trilha Acadêmica do Inteli como parte do Trabalho de Conclusão de Curso.
 
-O estudo investiga a viabilidade técnica da integração de criptografia pós-quântica (PQC) na blockchain Solana, analisando limitações arquiteturais do runtime, possibilidades de modelos híbridos (on-chain / off-chain) e propostas de extensão via syscall nativa.
+O estudo investiga a viabilidade técnica da integração de criptografia pós-quântica (PQC) à blockchain Solana, analisando limitações arquiteturais do runtime, modelos híbridos (on-chain / off-chain) e propostas de extensão via syscall nativa.
 
 ---
 

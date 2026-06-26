@@ -80,10 +80,17 @@ Foram avaliadas **20.360 transações**, distribuídas em lotes de N igual a 5, 
 
 ## Documento Científico
 
-O artigo científico consolidado e a apresentação final estão disponíveis em:
+Os artefatos finais consolidados do Trabalho de Conclusão de Curso estão disponíveis em `Entrega_Final/`:
 
-* `Modulo_4/Viabilidade_de_uma_Transição_Pós_Quântica_Híbrida_na_Blockchain_Solana_via_Syscall_Nativo.pdf`: artigo submetido ao Congresso Brasileiro de Ciências e Tecnologias Quânticas (CBCTQ 2026).
-* `Modulo_4/TCC.pdf`: apresentação final do Trabalho de Conclusão de Curso.
+* `Entrega_Final/TCC_Final_Arthur_Tsukamoto.pdf`: monografia final do Trabalho de Conclusão de Curso (versão PDF).
+* `Entrega_Final/TCC_Final_Arthur_Tsukamoto.docx`: monografia final (versão editável).
+* `Entrega_Final/Viabilidade_de_uma_Transição_Pós_Quântica_Híbrida_na_Blockchain_Solana_via_Syscall_Nativo.pdf`: artigo aceito no Congresso Brasileiro de Ciências e Tecnologias Quânticas (CBCTQ 2026).
+* `Entrega_Final/Aprovacao_CBCTQ.pdf`: carta de aprovação do artigo no CBCTQ 2026.
+* `Entrega_Final/TCC-Apresentacao-Final.pdf`: apresentação final do Trabalho de Conclusão de Curso.
+* `Entrega_Final/Termo de Autorização - Arthur Tsukamoto.pdf`: termo de autorização para publicação.
+
+Relatórios técnicos públicos elaborados ao longo do processo:
+
 * `Modulo_1/Arthur_Tsukamoto_public_report.pdf`: relatório técnico público (PT_BR).
 * `Modulo_1/Arthur_Tsukamoto_public_report_en.pdf`: relatório técnico público (EN).
 
@@ -134,20 +141,28 @@ Refinamento do artigo para submissão ao **Congresso Brasileiro de Ciências e T
 
 ```
 .
-├── assets/                                            Recursos visuais (logo Inteli)
-├── Modulo_1/                                          Artefatos do Módulo 1
+├── assets/                                                  Recursos visuais (logo Inteli)
+├── Modulo_1/                                                Artefatos do Módulo 1
 │   ├── apresentacao.pdf
-│   ├── Arthur_Tsukamoto_public_report.pdf             Relatório público (PT_BR)
-│   ├── Arthur_Tsukamoto_public_report_en.pdf          Relatório público (EN)
+│   ├── Arthur_Tsukamoto_public_report.pdf                   Relatório público (PT_BR)
+│   ├── Arthur_Tsukamoto_public_report_en.pdf                Relatório público (EN)
 │   └── public_report.md
-├── Modulo_2/                                          Artefatos do Módulo 2
+├── Modulo_2/                                                Artefatos do Módulo 2
 │   ├── Modulo_14_Arthur_Tsukamoto_sprint5.pdf
 │   └── README.md
-├── Modulo_3/                                          Artefatos do Módulo 3
+├── Modulo_3/                                                Artefatos do Módulo 3
 │   └── Artigo_Modulo_15_Final.pdf
-├── Modulo_4/                                          Artefatos do Módulo 4 (TCC final)
-│   ├── TCC.pdf                                        Apresentação final
+├── Modulo_4/                                                Artefatos do Módulo 4
+│   ├── TCC.pdf
 │   └── Viabilidade_de_uma_Transição_Pós_Quântica_Híbrida_na_Blockchain_Solana_via_Syscall_Nativo.pdf
+├── Entrega_Final/                                           Entregáveis finais do TCC
+│   ├── TCC_Final_Arthur_Tsukamoto.pdf                       Monografia final (PDF)
+│   ├── TCC_Final_Arthur_Tsukamoto.docx                      Monografia final (DOCX)
+│   ├── TCC-Apresentacao-Final.pdf                           Apresentação final
+│   ├── Viabilidade_de_uma_Transição_Pós_Quântica_Híbrida_na_Blockchain_Solana_via_Syscall_Nativo.pdf
+│   ├── Aprovacao_CBCTQ.pdf                                  Carta de aprovação no CBCTQ 2026
+│   ├── Termo de Autorização - Arthur Tsukamoto.pdf          Termo de autorização (PDF)
+│   └── Termo de Autorização - Arthur Tsukamoto.docx         Termo de autorização (DOCX)
 ├── LICENSE
 └── README.md
 ```
